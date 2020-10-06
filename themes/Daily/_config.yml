@@ -1,12 +1,12 @@
 # basic
-title: Daily
-subtitle: Minimalism, simplicity and refined details
-favicon: https://hexo.io/icon/favicon-96x96.png
+title: 绎梦机
+subtitle: 有限的记忆，无限的梦
+favicon: 
 
 # avatar: images/avatar.png
 # banner_small: images/banner-small.png
 # banner_large: images/banner-large.png
-logo: https://hexo.io/logo.svg
+logo: https://rmt.dogedoge.com/fetch/kurumit3/storage/avatar.jpg?fmt=webp
 
 # disqus
 #disqus_shortname: drakeleung
@@ -35,7 +35,7 @@ default_post_title: Untitled
 
 # social
 social:
-  github: https://github.com/GallenHu
+  github: https://github.com/kurumiT3
   # weibo: http://weibo.com/10010800
   # mail: mailto:gallenhu@foxmail.com
   # twitter: https://twitter.com/GallenHu
@@ -45,6 +45,6 @@ social:
 #   content: 内容
 widget:
   title: 关于本站
-  content: <ul><li><a href="https://github.com/GallenHu/hexo-theme-Daily/wiki">如何自定义这里的内容(配置教程)?</a></li></ul>
+  content: <ul><li><a href=>/a></li></ul>
 
 footer: Powered by <a href="https://hexo.io/" target="_blank">Hexo</a> with Theme <a href="https://github.com/GallenHu/hexo-theme-Daily" target="_blank">Daily</a>
