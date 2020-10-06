@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Gallifrey
+title: 绎梦机
 subtitle: '个人博客'
-description: '日语里「夏天结束了」其实和「今晚月色真美」一样,是有隐晦暗示的。'
+description: '有限的记忆，无限的梦'
 keywords: 梦
-author: 孤独的时间领主
+author: kurumit3
 language: zh-CN
 timezone: ''
 email: kurumiyout3@gmail.com
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://kurumit3.top
+url: https://blog.kurumit3.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -88,7 +88,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: Daily
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
