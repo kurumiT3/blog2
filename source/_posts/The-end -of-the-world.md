@@ -4,7 +4,7 @@ date: 2020-08-31 15:00:00
 tags: 文摘
 category: 诗文
 excerpt: 今天是世界末日，现在是世界末日的下午。
-thumbnail: https://rmt.dogedoge.com/fetch/kurumit3/storage/72437084_p0_master1200.jpg?w=1280&h=600&fmt=webp
+photos: https://rmt.dogedoge.com/fetch/kurumit3/storage/72437084_p0_master1200.jpg?w=1280&h=600&fmt=webp
 ---
 
 ***作者：沈大成***
