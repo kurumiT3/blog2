@@ -3,7 +3,7 @@ title: 秉烛夜游
 date: 2020-10-05 21:32:09
 tags: 随笔
 category: 诗文
-thumbnail: https://rmt.dogedoge.com/fetch/kurumit3/storage/torches.png?w=1280&h=600&fmt=webp
+photos: https://rmt.dogedoge.com/fetch/kurumit3/storage/torches.png?w=1280&h=600&fmt=webp
 excerpt: 人生得意须尽欢，何不秉烛夜游？
 ---
 
