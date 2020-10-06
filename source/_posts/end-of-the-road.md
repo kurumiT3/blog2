@@ -3,7 +3,7 @@ title: 穷途
 date: 2020-09-20 10:24:59
 tags: 随笔
 category: 诗文
-thumbnail: https://rmt.dogedoge.com/fetch/kurumit3/storage/截屏2020-09-20 下午9.52.44.jpeg?w=1280&h=600&fmt=webp
+photos: https://rmt.dogedoge.com/fetch/kurumit3/storage/截屏2020-09-20 下午9.52.44.jpeg?w=1280&h=600&fmt=webp
 excerpt: 夜露湿重，万家灯火，在山那端。最终还是成为了自己讨厌的人。
 ---
 
