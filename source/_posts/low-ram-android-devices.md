@@ -4,7 +4,7 @@ date: 2020-08-27 14:56:44
 tags: 
          - 教程
          - Android
-thumbnail: https://rmt.dogedoge.com/fetch/kurumit3/storage/Exams-bro.png?w=1280&h=600&fmt=webp
+photos: https://rmt.dogedoge.com/fetch/kurumit3/storage/Exams-bro.png?w=1280&h=600&fmt=webp
 ---
 
 📖本文在少数派上同步发布，可选择在少数派[阅读此文](https://sspai.com/post/62351)
