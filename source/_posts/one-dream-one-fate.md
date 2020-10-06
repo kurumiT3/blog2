@@ -3,7 +3,7 @@ title: 一场梦境，命中注定
 date: 2020-08-10 12:33:32
 tags: 文摘
 category: 诗文
-thumbnail: https://kurumit3-1301249943.cos.ap-shanghai.myqcloud.com/img/72684384_p0_master1200.webp
+photos: https://kurumit3-1301249943.cos.ap-shanghai.myqcloud.com/img/72684384_p0_master1200.webp
 ---
 
 ### **梦？**
