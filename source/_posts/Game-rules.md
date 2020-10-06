@@ -4,7 +4,7 @@ date: 2020-09-13 15:05:06
 tags: 随笔
 category: 诗文
 excerpt: 我输了，可是游戏规则是什么？
-thumbnail: https://rmt.dogedoge.com/fetch/kurumit3/storage/雨前2.jpeg?w=1280&h=600&fmt=webp
+photos: https://rmt.dogedoge.com/fetch/kurumit3/storage/雨前2.jpeg?w=1280&h=600&fmt=webp
 ---
 
 有一天同桌更我说，我们来玩个游戏吧？
