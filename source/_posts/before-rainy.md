@@ -3,7 +3,7 @@ title: 《雨前》
 date: 2020-09-05 15:23:45
 tags: 文摘
 category: 诗文
-thumbnail: https://rmt.dogedoge.com/fetch/kurumit3/storage/%E9%9B%A8%E5%89%8D.jpeg?w=1280&h=600&fmt=webp
+photos: https://rmt.dogedoge.com/fetch/kurumit3/storage/%E9%9B%A8%E5%89%8D.jpeg?w=1280&h=600&fmt=webp
 excerpt: 雨，舍不得天空，不愿意落地。
 ---
 
