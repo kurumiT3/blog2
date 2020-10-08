@@ -3,7 +3,7 @@ title: 绎梦机
 date: 2020-10-08 13:01:15
 tags: 随笔
 category: 诗文
-thumbnail: https://rmt.dogedoge.com/fetch/kurumit3/storage/dreaming.png?w=1280&h=600&fmt=webp
+pictures: https://rmt.dogedoge.com/fetch/kurumit3/storage/dreaming.png?w=1280&h=600&fmt=webp
 ---
 
 「有限的记忆，无限的梦」
