@@ -3,7 +3,7 @@ title: 路口的插曲
 date: 2020-10-24 22:15:50
 tags: 随笔
 category: 诗文
-thumbnail: https://rmt.dogedoge.com/fetch/kurumit3/storage/crossroad.jpeg?w=1280&h=600&fmt=webp
+photos: https://rmt.dogedoge.com/fetch/kurumit3/storage/crossroad.jpeg?w=1280&h=600&fmt=webp
 ---
 
 日暮西斜，晚风萧瑟。
