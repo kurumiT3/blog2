@@ -22,7 +22,7 @@ nav:
   home: .
   archive: archives
   about: about
-  # rss: atom.xml
+  rss: atom.xml
 
 # hexo-renderer-sass
 node_sass:
