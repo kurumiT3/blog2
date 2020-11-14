@@ -3,8 +3,7 @@ title: 游离
 date: 2020-11-14 18:31:50
 tags: 随笔
 category: 诗文
-excerpt: 游离的一瞬，天赐的完美
-thumbnail: https://rmt.dogedoge.com/fetch/kurumit3/storage/wander.jpeg?fmt=webp
+photos: https://rmt.dogedoge.com/fetch/kurumit3/storage/wander.jpeg?fmt=webp
 ---
 
 ## 壹
