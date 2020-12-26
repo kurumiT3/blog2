@@ -3,7 +3,7 @@ title: 游离
 date: 2020-11-14 18:31:50
 tags: 随笔
 category: 诗文
-photos: https://rmt.dogedoge.com/fetch/kurumit3/storage/wander.jpeg?fmt=webp
+photos: https://rmt.dogedoge.com/fetch/kurumit3/storage/rob-wingate-Fd9tUmRBJzk-unsplash.jpg?w=1280&h=600&fmt=webp
 ---
 
 ## 壹
