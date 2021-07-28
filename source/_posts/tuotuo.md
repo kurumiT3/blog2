@@ -3,7 +3,7 @@ title: 托托们
 date: 2021-05-21 21:34:53
 tags: 小说
 category: 诗文
-thumbnail: https://rmt.ladydaily.com/fetch/kurumit3/storage/Photo by Nikolas Behrendt (wLNex5GwXSg).jpg?w=1280&h=600&fmt=webp
+photos: https://rmt.ladydaily.com/fetch/kurumit3/storage/Photo by Nikolas Behrendt (wLNex5GwXSg).jpg?w=1280&h=600&fmt=webp
 excerpt: 像是一个梦，一个，梦。
 ---
 
