@@ -4,7 +4,7 @@ date: 2021-05-15 19:55:13
 tags: 诗
 category: 诗文
 excerpt: 右手抚平影的尾巴，握紧寂寞
-thumbnail: https://rmt.ladydaily.com/fetch/kurumit3/storage/mariano-e-rodriguez-P0QYU43Cz4s-unsplash.jpg?w=1280&fmt=webp
+photos: https://rmt.ladydaily.com/fetch/kurumit3/storage/mariano-e-rodriguez-P0QYU43Cz4s-unsplash.jpg?w=1280&fmt=webp
 ---
 
 阳光将我撂倒
