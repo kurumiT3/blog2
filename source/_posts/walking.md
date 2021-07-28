@@ -3,7 +3,7 @@ title: 散步
 date: 2021-04-09 22:07:33
 tags: 小说
 category: 诗文
-thumbnail: https://rmt.ladydaily.com/fetch/kurumit3/storage/Photo by Clem Onojeghuo (c0rNiDctJpc).jpeg?w=1280&h=600&fmt=webp
+photos: https://rmt.ladydaily.com/fetch/kurumit3/storage/Photo by Clem Onojeghuo (c0rNiDctJpc).jpeg?w=1280&h=600&fmt=webp
 excerpt: 一旦戴上面具你再也摘不下来，你只能再戴上另一个面具。
 ---
 
